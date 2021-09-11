@@ -1,8 +1,8 @@
 ### Hello  👋 
 ### I’m Alan Donohoe.
 ### A Senior Software Engineer.
-### Working with Ruby, Python & JavaScript.
-### Web Applications & some Data Science.
+### Working With Ruby, Python & JavaScript.
+### Web Applications & Some Data Science.
 
 
 <!--
