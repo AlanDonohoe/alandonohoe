@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello  👋 
+### I’m Alan Donohoe.
+### A Senior Software Engineer.
+### Working with Ruby, Python & JavaScript.
+### Web Applications & some Data Science.
+
 
 <!--
 **AlanDonohoe/alandonohoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
