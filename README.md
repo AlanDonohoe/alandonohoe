@@ -1,20 +1,28 @@
 ### Hello 👋 I’m Alan Donohoe.
 ### A Senior Software Engineer working with Ruby, Python & JavaScript.
 ### Web Applications & Some Data Science.
+<br>
 
 👀 You might not see that many repos here, as they're either private or my work with organisations in their own github repos.
 
-But here's a couple of public repos from other organisations I've worked with that aren't in my personal Github account:
+But here's a couple of public repos from other organisations I've worked with:
 
-1) The [Official UrlBox Ruby Gem](https://github.com/urlbox/urlbox-ruby)
+1. The [Official UrlBox Ruby Gem](https://github.com/urlbox/urlbox-ruby)
+
   ✅100% test coverage (using Minitest) \*
-  ✅ Linted (using Rubocop) \*
+  
+  ✅ Fully linted (using Rubocop) \*
+  
   ✅ Fully documented
   
+  <br>
   
-2)  The [Official UrlBox Python Package](https://github.com/urlbox/urlbox-python)
+2. The [Official UrlBox Python Package](https://github.com/urlbox/urlbox-python)
+
   ✅ 100% test coverage (using Pytest) \*
-  ✅ Linted (using flake8) \*
+  
+  ✅ Fully linted (using flake8) \*
+  
   ✅ Fully documented
   
   \* via Github Actions/CI
