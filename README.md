@@ -1,12 +1,28 @@
-### Hello  👋 
-### I’m Alan Donohoe.
-### A Senior Software Engineer.
-### Working With Ruby, Python & JavaScript.
+### Hello 👋 I’m Alan Donohoe.
+### A Senior Software Engineer working with Ruby, Python & JavaScript.
 ### Web Applications & Some Data Science.
 
 👀 You might not see that many repos here, as they're either private or my work with organisations in their own github repos.
 
-<!--
+But here's a couple of public repos from other organisations I've worked with that aren't in my personal Github account:
+
+1) The [Official UrlBox Ruby Gem](https://github.com/urlbox/urlbox-ruby)
+  ✅100% test coverage (using Minitest) \*
+  ✅ Linted (using Rubocop) \*
+  ✅ Fully documented
+  
+  
+2)  The [Official UrlBox Python Package](https://github.com/urlbox/urlbox-python)
+  ✅ 100% test coverage (using Pytest) \*
+  ✅ Linted (using flake8) \*
+  ✅ Fully documented
+  
+  \* via Github Actions/CI
+
+ 🔧 I’m currently working on a side project to help score and quarantine sign up emails: [EmailQuarantine.io](https://emailquarantine.io/). 
+ This was inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/)
+ 
+ <!--
 **AlanDonohoe/alandonohoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
