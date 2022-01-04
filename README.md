@@ -9,7 +9,7 @@ But here's a couple of public repos from other organisations I've worked with:
 
 1. The [Official UrlBox Ruby Gem](https://github.com/urlbox/urlbox-ruby)
 
-  ✅100% test coverage (using Minitest) \*
+  ✅ 100% test coverage (using Minitest) \*
   
   ✅ Fully linted (using Rubocop) \*
   
@@ -21,7 +21,7 @@ But here's a couple of public repos from other organisations I've worked with:
 
   ✅ 100% test coverage (using Pytest) \*
   
-  ✅ Fully linted (using flake8) \*
+  ✅ Fully linted (using Flake8) \*
   
   ✅ Fully documented
   
