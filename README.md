@@ -27,9 +27,12 @@ But here's a couple of public repos from other organisations I've worked with:
   
   \* via Github Actions/CI
   <br>
+  <br>
 
- 🔧 I’m currently working on a side project to help score and quarantine sign up emails: [EmailQuarantine.io](https://emailquarantine.io/). 
- This was inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/)
+ 🔧 
+I’m currently working on a side project to help score and quarantine sign up emails: [EmailQuarantine.io](https://emailquarantine.io/). 
+
+This was inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/)
  
  <!--
 **AlanDonohoe/alandonohoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
