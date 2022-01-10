@@ -31,7 +31,9 @@ But here's a couple of public repos from other organisations I've worked with:
 
  🔧  🔧  🔧 Side Project  🔧  🔧  🔧
  
-Inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/), I’m currently working on a side project to help score and quarantine sign up emails: [EmailQuarantine.io](https://emailquarantine.io/). 
+Inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/), 
+
+I’m currently working on a side project to help score and quarantine sign up emails: [EmailQuarantine.io](https://emailquarantine.io/). 
 
 
 
