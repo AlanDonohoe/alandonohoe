@@ -1,5 +1,5 @@
 ### Hello 👋 I’m Alan Donohoe.
-### A Senior Software Engineer working with Ruby, Python & JavaScript.
+### A Senior Software Engineer working with Python & Ruby.
 ### Web Applications & Some Data Science.
 <br>
 
@@ -26,10 +26,17 @@ But here's a couple of public repos from other organisations I've worked with:
   ✅ Fully documented
   
   \* via Github Actions/CI
+  
+  <br>
+  
+  #### And some of my open source contributions <br>
+  
+  Added [AWS Rekognition OCR support to moto](https://github.com/spulec/moto/pull/4957) <br>
+  Added [AWS Rekognition Face Recognition support to moto](https://github.com/spulec/moto/pull/5115)
   <br>
   <br>
 
- 🔧  🔧  🔧 Side Project  🔧  🔧  🔧
+  #### 🔧  🔧  🔧 Side Project  🔧  🔧  🔧
  
 Inspired by my experience of having to rapidly deal with a DoS attack by Russian hackers when I worked at [CoverageBook.com](https://coveragebook.com/), 
 
