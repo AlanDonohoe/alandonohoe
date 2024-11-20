@@ -5,7 +5,7 @@
 
 👀 You might not see that many repos here, as they're either private or my work with organisations in their own github repos.
 
-But here's a couple of public repos from other organisations I've worked with:
+But here's a couple of public repos from other organisations I've worked with...
 
 1. The [Official UrlBox Ruby Gem](https://github.com/urlbox/urlbox-ruby)
 
@@ -28,6 +28,13 @@ But here's a couple of public repos from other organisations I've worked with:
   \* via Github Actions/CI
   
   <br>
+
+
+And organisations that I completed tech challenges for...
+
+Heron Data Tech Challenge - [Original Challenge](https://github.com/heron-data/join-the-siege) & [My Solution (a fine-tuned ResNet18 CNN model)](https://github.com/AlanDonohoe/join-the-siege)
+  
+  
   
   #### And some of my open source contributions <br>
   
